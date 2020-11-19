@@ -7,6 +7,7 @@ Personal Growth:
 
 Data Science/Computer Science:
 - Suxue Zhi Mei - Wu Jun: Intro to NLP and Math
+- Designing Data Intensive Applications
 
 Optimization:
 - TBD
